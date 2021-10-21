@@ -13,4 +13,4 @@ Incansável, o cara escolheu Street Fighter como um modo de vida. Treinando trê
 
 Aqui estão alguns feitos deste grande jogador: 
 
-
+![Seja um vencedor](artes/USF4 - The Beast is unleashed! Daigo 25 hit combo vs Momochi!.mp4)
