@@ -5,5 +5,4 @@
 
 ![Seja um vencedor](artes/ryu.jpg)
 
-
 ## **Street fighter V**
