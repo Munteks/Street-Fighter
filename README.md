@@ -13,4 +13,4 @@ Incansável, o cara escolheu Street Fighter como um modo de vida. Treinando trê
 
 Aqui estão alguns feitos deste grande jogador: 
 
-![Seja um vencedor](artes/USF4 - The Beast is unleashed! Daigo 25 hit combo vs Momochi!.mp4)
+[![Daigo vs Momochi USF4](https://res.cloudinary.com/marcomontalbano/image/upload/v1634862964/video_to_markdown/images/youtube--ZRY0aMbSZEM-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=ZRY0aMbSZEM&ab_channel=Bur%C3%A7%C3%96zkula "Daigo vs Momochi USF4")
