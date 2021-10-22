@@ -29,3 +29,4 @@ Aqui estão alguns feitos deste grande jogador:
 
 Infelizmente para Daigo, a mágica acabou e ele foi derrotado na grande final para Kenji "KO" Obata. Ainda assim, seu lance é lembrado até hoje como um dos mais importantes no cenário competitivo dos games. 
 
+
